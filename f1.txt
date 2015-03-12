@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-f1 rama alberto
-=======
+
 f1 modificado
->>>>>>> e7b792308b02cd51f736aa1bbb0f23692064111d
