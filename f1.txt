@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 f1 modificado
+=======
+<<<<<<< HEAD
+f1 rama alberto
+=======
+f1 modificado
+>>>>>>> e7b792308b02cd51f736aa1bbb0f23692064111d
+>>>>>>> 7ab94830b94627fef6c6445ef8ecac3e99cef68c
